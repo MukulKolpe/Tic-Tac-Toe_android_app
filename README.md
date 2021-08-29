@@ -10,7 +10,7 @@
 
 ## [Contributing Guidlines](https://github.com/MukulKolpe/Tic-Tac-Toe_android_app/blob/master/CONTRIBUTING.md)
 
-## [MIT License](https://github.com/MukulKolpe/PlaneShooter-Android-App/blob/master/LICENSE)
+## [MIT License](https://github.com/MukulKolpe/Tic-Tac-Toe_android_app/blob/master/LICENSE)
 
 
 
