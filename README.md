@@ -6,7 +6,7 @@
 
     Java
 
-## [Code of Conduct](https://github.com/MukulKolpe/PlaneShooter-Android-App/blob/master/CODE_OF_CONDUCT.md)
+## [Code of Conduct](https://github.com/MukulKolpe/Tic-Tac-Toe_android_app/blob/master/CODE_OF_CONDUCT.md)
 
 ## [Contributing Guidlines](https://github.com/MukulKolpe/PlaneShooter-Android-App/blob/master/CONTRIBUTING.md)
 
